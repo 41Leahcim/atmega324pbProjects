@@ -1,0 +1,6 @@
+embeddedProgramming
+*Debug
+*.atsln
+*.vs
+*.xml
+*.cproj
